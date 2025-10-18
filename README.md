@@ -7,8 +7,6 @@ Repositório criado durante o Intensivão de JavaScript, com o objetivo de aprim
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-Repositório criado durante o **Intensivão de JavaScript**, com o objetivo de colocar em prática **HTML, CSS, JavaScript e React** através de projetos práticos e desafiadores.
-
 Durante o intensivão, desenvolvi **4 projetos**, explorando diferentes conceitos e tecnologias.
 
 ---
@@ -25,6 +23,29 @@ Durante o intensivão, desenvolvi **4 projetos**, explorando diferentes conceito
 
 ![Audiobook](./imagens/audiobook.png)
 
-**Como rodar:**
-```bash
-Abra o arquivo index.html no navegador
+
+### 1. 🎧 Audiobook
+
+**Descrição:** Player de áudio interativo que permite ouvir capítulos de um livro, com controles de **play, pause e troca de faixas**.  
+**Foco:** Manipulação do DOM e eventos de mídia.  
+**Tecnologias usadas:** HTML, CSS, JavaScript
+
+![Audiobook](./imagens/audiobook.png)
+
+
+### 1. 🎧 Audiobook
+
+**Descrição:** Player de áudio interativo que permite ouvir capítulos de um livro, com controles de **play, pause e troca de faixas**.  
+**Foco:** Manipulação do DOM e eventos de mídia.  
+**Tecnologias usadas:** HTML, CSS, JavaScript
+
+![Audiobook](./imagens/audiobook.png)
+
+
+### 1. 🎧 Audiobook
+
+**Descrição:** Player de áudio interativo que permite ouvir capítulos de um livro, com controles de **play, pause e troca de faixas**.  
+**Foco:** Manipulação do DOM e eventos de mídia.  
+**Tecnologias usadas:** HTML, CSS, JavaScript
+
+![Audiobook](./imagens/audiobook.png)
