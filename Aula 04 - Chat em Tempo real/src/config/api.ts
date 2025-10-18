@@ -5,4 +5,3 @@
 //
 // Para produção, use sempre um backend para proteger suas chaves.
 
-export const OPENAI_API_KEY = import.meta.env.VITE_OPENAI_API_KEY;
